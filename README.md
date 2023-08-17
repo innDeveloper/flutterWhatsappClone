@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Ge![Ekran Alıntısı](https://github.com/innDeveloper/flutterWhatsappClone/assets/44702401/e41a1ebf-b6b9-44e7-a942-6e730318bf24)
+tting Started
 
 This project is a starting point for a Flutter application.
 
